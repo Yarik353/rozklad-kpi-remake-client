@@ -1,4 +1,21 @@
-# rozklad-kpi-remake-client
+# Rozklad KPI Remake (client part)
+
+## Курсова робота з курсу "Інженерія ПЗ"
+
+Тема роботи: "Написання API та клієнтської частини для розкладу КПІ використовуючи технології: Node.js, Rest API, Vue.js, MongoDB"
+
+# Учасники та контактна інформація
+|**Name**|**Gmail**|**Telegram**|
+|-------------------|-------------------------------|-----------|
+|*Мусійчук Ярослав*|yaredmus@ukr.net|https://t.me/yared_mus|
+|*Чопик Назар*|nazar.chopyk@gmail.com|https://t.me/naz_olegovich|
+
+
+## Інше
+[Серверна частина](https://github.com/naz-olegovich/rozklad-kpi-remake-server)
+
+[Звітність](https://github.com/naz-olegovich/rozklad-kpi-remake-server/blob/main/doc/coursework.md)
+
 
 ## Project setup
 ```
