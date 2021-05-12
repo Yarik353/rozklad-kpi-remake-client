@@ -1,13 +1,23 @@
 <template>
   <div class="AllInputSection">
-  <div class="wrap">
+  <div class="wrap" style="z-index: 2">
     <div class="shadow-maker">
       <div class="form-group border-style-form-group">
         <span>{{inputSectionStrings.inputTextLabel}}</span>
-        <input class="form-field" type="text" :placeholder="inputSectionStrings.inputTextPrompt">
+        <input  v-model="search" class="form-field" type="text" :placeholder="inputSectionStrings.inputTextPrompt">
       </div>
-
+      <div class="prompts-content" v-show="checkSearch()" >
+        <div class="prompts-sub">
+            <ul>
+              <li v-for="group in filteredGroups" v-on:click="insertGroupName(group.name)" v-bind:key="group" class="promptListItem" >
+                <a href="#" >{{group.name}}</a>
+              </li>
+            </ul>
+          </div>
+        <div class="cut-corner border-style-cut-corner"></div>
+      </div>
     </div>
+
   </div>
   <div class="wrap">
  <span class="shadow-maker">
@@ -20,10 +30,47 @@
 </template>
 
 <script>
+import json from './groupNames.json'
 export default {
   name: "InputSection",
+  data(){
+    return{
+      groupNames: json,
+      search: '',
+      showPrompt: false,
+
+
+    }
+  },
   props: {
     inputSectionStrings: Object,
+  },
+  computed:{
+    filteredGroups: function (){
+      return this.groupNames.filter((group) =>{
+        if (!this.search){
+          return false;
+        }
+        return group.name.slice(0, this.search.length) == this.search
+      });
+    }
+  },
+  methods:{
+    insertGroupName: function (name){
+      this.search = name;
+    },
+    checkSearch: function (){
+      if (!this.search || !this.filteredGroups.length){
+        return false;
+      }
+      else{
+        return true;
+      }
+
+    }
+  },
+  created() {
+
   }
 }
 </script>
@@ -73,17 +120,6 @@ export default {
   left: 2px;
   right: 2px;
   bottom: 2px;
-}
-.form-group:focus-within > span{
-  background: var(--light-blue-color);
-  border-color: var(--light-blue-color);
-}
-.form-group:focus-within > .form-field{
-  border-color: var(--light-blue-color);
-}
-.form-group:focus-within > .border-style-form-group{
-  background-color: var(--light-blue-color);
-  border-color: var(--light-blue-color);
 }
 
 .form-group {
@@ -145,6 +181,7 @@ body .form-group {
 
 .wrap {
   height: 100%;
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -171,4 +208,146 @@ body .form-group {
 .AllInputSection{
   margin-top: 3rem;
 }
+
+.prompts-content > .prompts-sub > ul > li{
+  list-style-type: none;
+}
+.prompts-content > .prompts-sub > ul{
+  padding: 0;
+}
+.prompts-content > .prompts-sub > ul > li > a{
+  text-decoration: none;
+  font-family: Tomorrow, sans-serif;
+  color: var(--dark-blue-color);
+  width: 100%;
+  line-height: 40px;
+  height: 40px;
+  display: block;
+}
+
+a:hover{
+  background-color: var(--light-blue-color);
+  color: white;
+}
+
+.prompts-content{
+  position: absolute;
+  float: right;
+  display: block;
+  max-height: 0;
+  overflow: hidden;
+  width: 100%;
+  padding-left: 16%;
+
+  border-left: 3px solid rgba(0, 0, 0, 0);
+  border-right: 3px solid rgba(0, 0, 0, 0);
+
+}
+.prompts-sub{
+  float: left;
+  width: 100%;
+  max-height: 140px;
+  overflow-y: scroll;
+  background-color: white;
+  display: block;
+  border-left: 3px solid var(--dark-blue-color);
+  border-right: 3px solid var(--dark-blue-color);
+}
+.cut-corner{
+  clear:both;
+  width: 100%;
+  position: relative;
+  background-color: white;
+  border-left: 3px solid var(--dark-blue-color);
+  height: 20px;
+  display: block;
+
+}
+
+
+.cut-corner, .cut-corner:after {
+  clip-path: polygon(
+      0 0%,
+      0% 0,
+      100% 0,
+      100% 100%,
+      100% 100%,
+      100% 100%,
+      10% 100%,
+      0% 0%,
+      0% 0%
+  )
+}
+
+.border-style-cut-corner {
+
+  background-color: var(--dark-blue-color);
+  border-bottom: 2px solid var(--dark-blue-color);
+
+  border-left: 3px solid var(--dark-blue-color);
+  border-right: 3px solid var(--dark-blue-color);
+
+}
+.border-style-cut-corner:after {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+.cut-corner:after {
+  content: "";
+  outline: none;
+  position: absolute;
+  background: white;
+}
+.form-group:focus-within ~ .prompts-content{
+  max-height: 200px;
+  transition: max-height 0.4s ease-in;
+}
+
+.prompts-content:active{
+  max-height: 200px;
+}
+
+
+
+
+/*.cut-corner {*/
+/*  background-color: white;*/
+/*  position: relative;*/
+/*}*/
+
+/*.cut-corner:after {*/
+/*  content: "";*/
+/*  position: absolute;*/
+/*  background: white;*/
+/*  display:block;*/
+/*}*/
+
+/*.cut-corner, .cut-corner:after {*/
+/*  clip-path: polygon(*/
+/*      0 0%,*/
+/*      0% 0,*/
+/*      100% 0,*/
+/*      100% 30%,*/
+/*      100% 100%,*/
+/*      100% 100%,*/
+/*      10% 100%,*/
+/*      0% 0%,*/
+/*      0% 0%*/
+/*  )*/
+
+/*}*/
+
+/*.border-style-cut-corner {*/
+/*  background-color: var(--dark-blue-color);*/
+/*}*/
+
+/*.border-style-cut-corner:after {*/
+/*  top: 1px;*/
+/*  left: 1px;*/
+/*  right: 1px;*/
+/*  bottom: 1px;*/
+/*}*/
+
 </style>

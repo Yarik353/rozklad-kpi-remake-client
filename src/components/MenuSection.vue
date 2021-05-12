@@ -121,7 +121,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid var(--dark-blue-color);
+    border:  2px solid var(--dark-blue-color);
     outline: none;
     background-color: white;
     color: var(--dark-blue-color);

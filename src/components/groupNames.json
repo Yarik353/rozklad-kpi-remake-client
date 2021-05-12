@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "1",
+    "name": "081-з61ф",
+    "prefix": "081",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "2",
+    "name": "121-61ф-112",
+    "prefix": "121",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "3",
+    "name": "132-61ф-76",
+    "prefix": "132",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "4",
+    "name": "136-61ф-104",
+    "prefix": "136",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "5",
+    "name": "ак-01",
+    "prefix": "ак",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "6",
+    "name": "ак-01мп",
+    "prefix": "ак",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "7",
+    "name": "ак-02",
+    "prefix": "ак",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "8",
+    "name": "ак-91",
+    "prefix": "ак",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "9",
+    "name": "ак-91мп",
+    "prefix": "ак",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "10",
+    "name": "ал-01",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "11",
+    "name": "ал-01мп (ар)",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "12",
+    "name": "ал-01мп (ар)",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "13",
+    "name": "ал-01ф",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "14",
+    "name": "ал-02",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "15",
+    "name": "ал-03",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "16",
+    "name": "ал-04",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "17",
+    "name": "ал-91",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "18",
+    "name": "ал-91мн",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "19",
+    "name": "ал-91мп",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "20",
+    "name": "ал-91ф",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "21",
+    "name": "ал-92",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "22",
+    "name": "ал-93",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "23",
+    "name": "ал-94",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "24",
+    "name": "ал-з01",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "25",
+    "name": "ал-з01мп (ар)",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "26",
+    "name": "ал-з01мп (ар)",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "27",
+    "name": "ал-з91 (ар)",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "28",
+    "name": "ал-з91 (ар)",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "29",
+    "name": "ал-з91мп",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "30",
+    "name": "ал-п01 (ар)",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "31",
+    "name": "ал-п01 (ар)",
+    "prefix": "ал",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "32",
+    "name": "ам-01",
+    "prefix": "ам",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "33",
+    "name": "ам-71",
+    "prefix": "ам",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "34",
+    "name": "ам-81 (тпу)",
+    "prefix": "ам",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "35",
+    "name": "ам-81 (тпу)",
+    "prefix": "ам",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "36",
+    "name": "ам-91",
+    "prefix": "ам",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "37",
+    "name": "ам-91мп (тпу)",
+    "prefix": "ам",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "38",
+    "name": "ам-91мп (тпу)",
+    "prefix": "ам",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "39",
+    "name": "ам-з01",
+    "prefix": "ам",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "40",
+    "name": "ам-з91",
+    "prefix": "ам",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "41",
+    "name": "ам-з91мп (тпу)",
+    "prefix": "ам",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "42",
+    "name": "ам-з91мп (тпу)",
+    "prefix": "ам",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "43",
+    "name": "ас-01 ()",
+    "prefix": "ас",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "44",
+    "name": "ас-01 ()",
+    "prefix": "ас",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "45",
+    "name": "ас-01мн",
+    "prefix": "ас",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "46",
+    "name": "ас-01мп",
+    "prefix": "ас",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "47",
+    "name": "ас-01ф",
+    "prefix": "ас",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "48",
+    "name": "ас-02",
+    "prefix": "ас",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "49",
+    "name": "ас-91",
+    "prefix": "ас",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "50",
+    "name": "ас-91мп",
+    "prefix": "ас",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "51",
+    "name": "ас-91ф",
+    "prefix": "ас",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "52",
+    "name": "ас-92",
+    "prefix": "ас",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "53",
+    "name": "ас-з01мп",
+    "prefix": "ас",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "54",
+    "name": "ас-з01ф",
+    "prefix": "ас",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "55",
+    "name": "ас-з91мп",
+    "prefix": "ас",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "56",
+    "name": "ас-з91ф",
+    "prefix": "ас",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "57",
+    "name": "ас-п01 (скла)",
+    "prefix": "ас",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "58",
+    "name": "ас-п01 ()",
+    "prefix": "ас",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "59",
+    "name": "ас-п91",
+    "prefix": "ас",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "60",
+    "name": "ат-01",
+    "prefix": "ат",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "61",
+    "name": "ат-з01",
+    "prefix": "ат",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "62",
+    "name": "бе-01",
+    "prefix": "бе",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "63",
+    "name": "бе-01мн",
+    "prefix": "бе",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "64",
+    "name": "бе-01мп",
+    "prefix": "бе",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "65",
+    "name": "бе-01ф",
+    "prefix": "бе",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "66",
+    "name": "бе-71",
+    "prefix": "бе",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "67",
+    "name": "бе-81",
+    "prefix": "бе",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "68",
+    "name": "бе-91",
+    "prefix": "бе",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "69",
+    "name": "бе-91мн",
+    "prefix": "бе",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "70",
+    "name": "бе-91мп",
+    "prefix": "бе",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "71",
+    "name": "бе-91ф",
+    "prefix": "бе",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "72",
+    "name": "бе-з01мп",
+    "prefix": "бе",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "73",
+    "name": "бе-із91ф",
+    "prefix": "бе",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "74",
+    "name": "бі-01",
+    "prefix": "бі",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "75",
+    "name": "бі-01мн",
+    "prefix": "бі",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "76",
+    "name": "бі-01мп",
+    "prefix": "бі",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "77",
+    "name": "бі-71",
+    "prefix": "бі",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "78",
+    "name": "бі-81",
+    "prefix": "бі",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "79",
+    "name": "бі-91",
+    "prefix": "бі",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "80",
+    "name": "бі-91мп",
+    "prefix": "бі",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "81",
+    "name": "бм-01 ()",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "82",
+    "name": "бм-01 ()",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "83",
+    "name": "бм-01мн",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "84",
+    "name": "бм-01мп (бі)",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "85",
+    "name": "бм-01мп (бмі)",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "86",
+    "name": "бм-01ф (бі)",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "87",
+    "name": "бм-01ф (бмі)",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "88",
+    "name": "бм-02",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "89",
+    "name": "бм-02ф",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "90",
+    "name": "бм-03і",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "91",
+    "name": "бм-71 (бі)",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "92",
+    "name": "бм-71 (бмі)",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "93",
+    "name": "бм-72",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "94",
+    "name": "бм-73і",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "95",
+    "name": "бм-81 (бі)",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "96",
+    "name": "бм-81 (бмі)",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "97",
+    "name": "бм-82",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "98",
+    "name": "бм-83і",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "99",
+    "name": "бм-91 (бі)",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "100",
+    "name": "бм-91 (бмі)",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "101",
+    "name": "бм-91мн",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "102",
+    "name": "бм-91мп (бі)",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "103",
+    "name": "бм-91мп (бмі)",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "104",
+    "name": "бм-91ф",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "105",
+    "name": "бм-92",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "106",
+    "name": "бм-93і",
+    "prefix": "бм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "107",
+    "name": "бп-71",
+    "prefix": "бп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "108",
+    "name": "бп-81",
+    "prefix": "бп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "109",
+    "name": "бп-91",
+    "prefix": "бп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "110",
+    "name": "бп-91мп (бмі)",
+    "prefix": "бп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "111",
+    "name": "бп-91мп (бмі)",
+    "prefix": "бп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "112",
+    "name": "бр-01",
+    "prefix": "бр",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "113",
+    "name": "бр-01мп",
+    "prefix": "бр",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "114",
+    "name": "бр-01ф",
+    "prefix": "бр",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "115",
+    "name": "бр-71",
+    "prefix": "бр",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "116",
+    "name": "бр-81",
+    "prefix": "бр",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "117",
+    "name": "бр-91",
+    "prefix": "бр",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "118",
+    "name": "бр-91мп (кббзл)",
+    "prefix": "бр",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "119",
+    "name": "бр-91мп (кббзл)",
+    "prefix": "бр",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "120",
+    "name": "бр-91ф",
+    "prefix": "бр",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "121",
+    "name": "бр-92мп (кббзл)",
+    "prefix": "бр",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "122",
+    "name": "бр-92мп (кббзл)",
+    "prefix": "бр",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "123",
+    "name": "бр-п01",
+    "prefix": "бр",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "124",
+    "name": "бр-п81",
+    "prefix": "бр",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "125",
+    "name": "бр-п91",
+    "prefix": "бр",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "126",
+    "name": "бс-01",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "127",
+    "name": "бс-01мн",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "128",
+    "name": "бс-01мп",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "129",
+    "name": "бс-01ф",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "130",
+    "name": "бс-02",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "131",
+    "name": "бс-03",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "132",
+    "name": "бс-71",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "133",
+    "name": "бс-72",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "134",
+    "name": "бс-73",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "135",
+    "name": "бс-81",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "136",
+    "name": "бс-82",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "137",
+    "name": "бс-83",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "138",
+    "name": "бс-91",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "139",
+    "name": "бс-91мн",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "140",
+    "name": "бс-91мп",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "141",
+    "name": "бс-91ф",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "142",
+    "name": "бс-92",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "143",
+    "name": "бс-93",
+    "prefix": "бс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "144",
+    "name": "бт-01",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "145",
+    "name": "бт-01мн",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "146",
+    "name": "бт-01мп",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "147",
+    "name": "бт-01ф",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "148",
+    "name": "бт-02",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "149",
+    "name": "бт-02ф",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "150",
+    "name": "бт-71",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "151",
+    "name": "бт-72",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "152",
+    "name": "бт-81",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "153",
+    "name": "бт-82",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "154",
+    "name": "бт-91",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "155",
+    "name": "бт-91мн",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "156",
+    "name": "бт-91мп",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "157",
+    "name": "бт-91ф",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "158",
+    "name": "бт-92",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "159",
+    "name": "бт-з01",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "160",
+    "name": "бт-з01мп",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "161",
+    "name": "бт-з71",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "162",
+    "name": "бт-з81",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "163",
+    "name": "бт-з91",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "164",
+    "name": "бт-і92ф",
+    "prefix": "бт",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "165",
+    "name": "бф-01",
+    "prefix": "бф",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "166",
+    "name": "бф-01мп",
+    "prefix": "бф",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "167",
+    "name": "бф-01ф",
+    "prefix": "бф",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "168",
+    "name": "бф-91",
+    "prefix": "бф",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "169",
+    "name": "ва-71",
+    "prefix": "ва",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "170",
+    "name": "вв-71",
+    "prefix": "вв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "171",
+    "name": "вл-71",
+    "prefix": "вл",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "172",
+    "name": "вл-72",
+    "prefix": "вл",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "173",
+    "name": "вл-73",
+    "prefix": "вл",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "174",
+    "name": "вл-81",
+    "prefix": "вл",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "175",
+    "name": "вл-82",
+    "prefix": "вл",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "176",
+    "name": "вл-83",
+    "prefix": "вл",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "177",
+    "name": "вл-85",
+    "prefix": "вл",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "178",
+    "name": "вл-зп84",
+    "prefix": "вл",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "179",
+    "name": "вл-п81",
+    "prefix": "вл",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "180",
+    "name": "вл-п84",
+    "prefix": "вл",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "181",
+    "name": "да-01",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "182",
+    "name": "да-01мн",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "183",
+    "name": "да-01мп",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "184",
+    "name": "да-01ф",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "185",
+    "name": "да-02",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "186",
+    "name": "да-03",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "187",
+    "name": "да-71",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "188",
+    "name": "да-72",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "189",
+    "name": "да-81",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "190",
+    "name": "да-82",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "191",
+    "name": "да-91",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "192",
+    "name": "да-91мн",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "193",
+    "name": "да-91мп",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "194",
+    "name": "да-91ф",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "195",
+    "name": "да-92",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "196",
+    "name": "да-з01мп",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "197",
+    "name": "да-з01ф (сп)",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "198",
+    "name": "да-з01ф (сп)",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "199",
+    "name": "да-з91мп",
+    "prefix": "да",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "200",
+    "name": "дв-01",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "201",
+    "name": "дв-01мн",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "202",
+    "name": "дв-01мп",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "203",
+    "name": "дв-61",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "204",
+    "name": "дв-71 (амес)",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "205",
+    "name": "дв-71 (амес)",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "206",
+    "name": "дв-72 (амес)",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "207",
+    "name": "дв-72 (амес)",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "208",
+    "name": "дв-81 (амес)",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "209",
+    "name": "дв-81 (амес)",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "210",
+    "name": "дв-91",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "211",
+    "name": "дв-91мн (амес)",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "212",
+    "name": "дв-91мн (амес)",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "213",
+    "name": "дв-91мп (амес)",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "214",
+    "name": "дв-91мп (амес)",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "215",
+    "name": "дв-91ф (амес)",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "216",
+    "name": "дв-91ф (амес)",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "217",
+    "name": "дв-92мн",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "218",
+    "name": "дв-92мп",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "219",
+    "name": "дв-з01",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "220",
+    "name": "дв-з91мп",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "221",
+    "name": "дв-п01",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "222",
+    "name": "дв-п71",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "223",
+    "name": "дв-п91 (амес)",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "224",
+    "name": "дв-п91 (амес)",
+    "prefix": "дв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "225",
+    "name": "дг-01",
+    "prefix": "дг",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "226",
+    "name": "дг-01мн",
+    "prefix": "дг",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "227",
+    "name": "дг-01мп",
+    "prefix": "дг",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "228",
+    "name": "дг-01ф",
+    "prefix": "дг",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "229",
+    "name": "дг-71",
+    "prefix": "дг",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "230",
+    "name": "дг-72",
+    "prefix": "дг",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "231",
+    "name": "дг-81",
+    "prefix": "дг",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "232",
+    "name": "дг-91",
+    "prefix": "дг",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "233",
+    "name": "дг-91мн",
+    "prefix": "дг",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "234",
+    "name": "дг-91мп",
+    "prefix": "дг",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "235",
+    "name": "дг-91ф",
+    "prefix": "дг",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "236",
+    "name": "дг-з01",
+    "prefix": "дг",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "237",
+    "name": "дг-з01ф",
+    "prefix": "дг",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "238",
+    "name": "дг-з91ф (амес)",
+    "prefix": "дг",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "239",
+    "name": "дг-з91ф (амес)",
+    "prefix": "дг",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "240",
+    "name": "де-01",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "241",
+    "name": "де-01мн",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "242",
+    "name": "де-01мп",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "243",
+    "name": "де-71",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "244",
+    "name": "де-81",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "245",
+    "name": "де-91",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "246",
+    "name": "де-91мн",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "247",
+    "name": "де-91мп",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "248",
+    "name": "де-91ф (епс)",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "249",
+    "name": "де-91ф (епс)",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "250",
+    "name": "де-з01",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "251",
+    "name": "де-з01мп",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "252",
+    "name": "де-з71",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "253",
+    "name": "де-з81",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "254",
+    "name": "де-з91",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "255",
+    "name": "де-з91мп (епс)",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "256",
+    "name": "де-з91мп (епс)",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "257",
+    "name": "де-зп01",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "258",
+    "name": "де-зп81",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "259",
+    "name": "де-зп91",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "260",
+    "name": "де-п01",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "261",
+    "name": "де-п81",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "262",
+    "name": "де-п91",
+    "prefix": "де",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "263",
+    "name": "дк-01",
+    "prefix": "дк",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "264",
+    "name": "дк-01мн",
+    "prefix": "дк",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "265",
+    "name": "дк-01мп",
+    "prefix": "дк",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "266",
+    "name": "дк-01ф",
+    "prefix": "дк",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "267",
+    "name": "дк-02",
+    "prefix": "дк",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "268",
+    "name": "дк-71",
+    "prefix": "дк",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "269",
+    "name": "дк-72",
+    "prefix": "дк",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "270",
+    "name": "дк-81 (кеоа)",
+    "prefix": "дк",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "271",
+    "name": "дк-81 (кеоа)",
+    "prefix": "дк",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "272",
+    "name": "дк-82 (кеоа)",
+    "prefix": "дк",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "273",
+    "name": "дк-82 (кеоа)",
+    "prefix": "дк",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "274",
+    "name": "дк-91",
+    "prefix": "дк",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "275",
+    "name": "дк-91мн",
+    "prefix": "дк",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "276",
+    "name": "дк-91мп",
+    "prefix": "дк",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "277",
+    "name": "дк-91ф",
+    "prefix": "дк",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "278",
+    "name": "дк-92",
+    "prefix": "дк",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "279",
+    "name": "дм-01",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "280",
+    "name": "дм-01мн",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "281",
+    "name": "дм-01мп",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "282",
+    "name": "дм-01ф",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "283",
+    "name": "дм-02",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "284",
+    "name": "дм-71",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "285",
+    "name": "дм-72",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "286",
+    "name": "дм-81",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "287",
+    "name": "дм-82",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "288",
+    "name": "дм-91",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "289",
+    "name": "дм-91мн",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "290",
+    "name": "дм-91мп",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "291",
+    "name": "дм-91ф",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "292",
+    "name": "дм-92",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "293",
+    "name": "дм-92мн",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "294",
+    "name": "дм-92мп",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "295",
+    "name": "дм-з71мп (фбме)",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "296",
+    "name": "дм-з71мп (фбме)",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "297",
+    "name": "дм-з72мп",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "298",
+    "name": "дм-з81мп",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "299",
+    "name": "дм-з82мп",
+    "prefix": "дм",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "300",
+    "name": "дп-01",
+    "prefix": "дп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "301",
+    "name": "дп-01мн",
+    "prefix": "дп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "302",
+    "name": "дп-01мп",
+    "prefix": "дп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "303",
+    "name": "дп-01ф",
+    "prefix": "дп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "304",
+    "name": "дп-02",
+    "prefix": "дп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "305",
+    "name": "дп-71",
+    "prefix": "дп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "306",
+    "name": "дп-72",
+    "prefix": "дп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "307",
+    "name": "дп-81",
+    "prefix": "дп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "308",
+    "name": "дп-82",
+    "prefix": "дп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "309",
+    "name": "дп-91",
+    "prefix": "дп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "310",
+    "name": "дп-91мн",
+    "prefix": "дп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "311",
+    "name": "дп-91мп",
+    "prefix": "дп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "312",
+    "name": "дп-91ф",
+    "prefix": "дп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "313",
+    "name": "дп-92",
+    "prefix": "дп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "314",
+    "name": "дп-92мн",
+    "prefix": "дп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "315",
+    "name": "дп-92мп",
+    "prefix": "дп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "316",
+    "name": "дс-01",
+    "prefix": "дс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "317",
+    "name": "дс-01мн",
+    "prefix": "дс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "318",
+    "name": "дс-01мп",
+    "prefix": "дс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "319",
+    "name": "дс-01ф",
+    "prefix": "дс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "320",
+    "name": "дс-71",
+    "prefix": "дс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "321",
+    "name": "дс-81",
+    "prefix": "дс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "322",
+    "name": "дс-91",
+    "prefix": "дс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "323",
+    "name": "дс-91мн",
+    "prefix": "дс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "324",
+    "name": "дс-91мп",
+    "prefix": "дс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "325",
+    "name": "дс-91ф",
+    "prefix": "дс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "326",
+    "name": "дс-з01",
+    "prefix": "дс",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "327",
+    "name": "дс-з01ф",
+    "prefix": "дс",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "328",
+    "name": "ев-01",
+    "prefix": "ев",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "329",
+    "name": "ев-01мн",
+    "prefix": "ев",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "330",
+    "name": "ев-01мп",
+    "prefix": "ев",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "331",
+    "name": "ев-01ф",
+    "prefix": "ев",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "332",
+    "name": "ев-81",
+    "prefix": "ев",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "333",
+    "name": "ев-91",
+    "prefix": "ев",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "334",
+    "name": "ев-з01",
+    "prefix": "ев",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "335",
+    "name": "ев-з01мп",
+    "prefix": "ев",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "336",
+    "name": "ев-з91ф",
+    "prefix": "ев",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "337",
+    "name": "ед-01",
+    "prefix": "ед",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "338",
+    "name": "ед-01мн",
+    "prefix": "ед",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "339",
+    "name": "ед-01мп",
+    "prefix": "ед",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "340",
+    "name": "ед-01ф",
+    "prefix": "ед",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "341",
+    "name": "ед-71",
+    "prefix": "ед",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "342",
+    "name": "ед-81",
+    "prefix": "ед",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "343",
+    "name": "ед-91",
+    "prefix": "ед",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "344",
+    "name": "ед-91мн",
+    "prefix": "ед",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "345",
+    "name": "ед-91мп",
+    "prefix": "ед",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "346",
+    "name": "ед-91ф",
+    "prefix": "ед",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "347",
+    "name": "ек-01",
+    "prefix": "ек",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "348",
+    "name": "ек-01мн",
+    "prefix": "ек",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "349",
+    "name": "ек-01мп",
+    "prefix": "ек",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "350",
+    "name": "ек-71",
+    "prefix": "ек",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "351",
+    "name": "ек-81",
+    "prefix": "ек",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "352",
+    "name": "ек-91",
+    "prefix": "ек",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "353",
+    "name": "ек-91мп",
+    "prefix": "ек",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "354",
+    "name": "ек-91ф",
+    "prefix": "ек",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "355",
+    "name": "ек-з01",
+    "prefix": "ек",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "356",
+    "name": "ек-з01мп",
+    "prefix": "ек",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "357",
+    "name": "ек-з91",
+    "prefix": "ек",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "358",
+    "name": "ек-з91мп",
+    "prefix": "ек",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "359",
+    "name": "ек-зп01",
+    "prefix": "ек",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "360",
+    "name": "ек-зп91",
+    "prefix": "ек",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "361",
+    "name": "ек-п01",
+    "prefix": "ек",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "362",
+    "name": "ек-п81",
+    "prefix": "ек",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "363",
+    "name": "ек-п91",
+    "prefix": "ек",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "364",
+    "name": "ем-01",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "365",
+    "name": "ем-01мн",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "366",
+    "name": "ем-01мп",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "367",
+    "name": "ем-01ф",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "368",
+    "name": "ем-71",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "369",
+    "name": "ем-81",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "370",
+    "name": "ем-91",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "371",
+    "name": "ем-91мн (ем)",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "372",
+    "name": "ем-91мн (ем)",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "373",
+    "name": "ем-91мп (ем)",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "374",
+    "name": "ем-91мп (ем)",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "375",
+    "name": "ем-91ф",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "376",
+    "name": "ем-з01",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "377",
+    "name": "ем-з01мп",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "378",
+    "name": "ем-зп01",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "379",
+    "name": "ем-п01",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "380",
+    "name": "ем-п81",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "381",
+    "name": "ем-п91",
+    "prefix": "ем",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "382",
+    "name": "еп-01",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "383",
+    "name": "еп-01мн",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "384",
+    "name": "еп-01мп",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "385",
+    "name": "еп-01ф",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "386",
+    "name": "еп-02",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "387",
+    "name": "еп-71",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "388",
+    "name": "еп-72",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "389",
+    "name": "еп-81",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "390",
+    "name": "еп-82",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "391",
+    "name": "еп-91",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "392",
+    "name": "еп-91мн",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "393",
+    "name": "еп-91мп",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "394",
+    "name": "еп-91ф",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "395",
+    "name": "еп-92",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "396",
+    "name": "еп-з01",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "397",
+    "name": "еп-з01мп",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "398",
+    "name": "еп-зп01",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "399",
+    "name": "еп-п01",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "400",
+    "name": "еп-п81",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "401",
+    "name": "еп-п91",
+    "prefix": "еп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "402",
+    "name": "ес-01",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "403",
+    "name": "ес-01мн",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "404",
+    "name": "ес-01мп",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "405",
+    "name": "ес-01ф",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "406",
+    "name": "ес-02",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "407",
+    "name": "ес-71",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "408",
+    "name": "ес-72",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "409",
+    "name": "ес-81",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "410",
+    "name": "ес-82",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "411",
+    "name": "ес-91",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "412",
+    "name": "ес-91мн",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "413",
+    "name": "ес-91мп",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "414",
+    "name": "ес-91ф",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "415",
+    "name": "ес-92",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "416",
+    "name": "ес-з01",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "417",
+    "name": "ес-з01мп (емс)",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "418",
+    "name": "ес-з01мп (емс)",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "419",
+    "name": "ес-з71",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "420",
+    "name": "ес-з81",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "421",
+    "name": "ес-з91мп (емс)",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "422",
+    "name": "ес-з91мп (емс)",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "423",
+    "name": "ес-зп01",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "424",
+    "name": "ес-зп81",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "425",
+    "name": "ес-зп91",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "426",
+    "name": "ес-п01",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "427",
+    "name": "ес-п81",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "428",
+    "name": "ес-п91",
+    "prefix": "ес",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "429",
+    "name": "ет-01",
+    "prefix": "ет",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "430",
+    "name": "ет-01мн",
+    "prefix": "ет",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "431",
+    "name": "ет-01мп (вде)",
+    "prefix": "ет",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "432",
+    "name": "ет-01мп (вде)",
+    "prefix": "ет",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "433",
+    "name": "ет-01ф",
+    "prefix": "ет",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "434",
+    "name": "ет-71",
+    "prefix": "ет",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "435",
+    "name": "ет-81",
+    "prefix": "ет",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "436",
+    "name": "ет-91",
+    "prefix": "ет",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "437",
+    "name": "ет-91мн",
+    "prefix": "ет",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "438",
+    "name": "ет-91мп",
+    "prefix": "ет",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "439",
+    "name": "ет-91ф",
+    "prefix": "ет",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "440",
+    "name": "ет-з01",
+    "prefix": "ет",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "441",
+    "name": "ет-з01мп",
+    "prefix": "ет",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "442",
+    "name": "ет-з91мп",
+    "prefix": "ет",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "443",
+    "name": "ет-п01",
+    "prefix": "ет",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "444",
+    "name": "ет-п81",
+    "prefix": "ет",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "445",
+    "name": "ет-п91",
+    "prefix": "ет",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "446",
+    "name": "еу-01",
+    "prefix": "еу",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "447",
+    "name": "еу-71",
+    "prefix": "еу",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "448",
+    "name": "еу-81",
+    "prefix": "еу",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "449",
+    "name": "еу-91",
+    "prefix": "еу",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "450",
+    "name": "еу-91мп (тпу)",
+    "prefix": "еу",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "451",
+    "name": "еу-91мп (тпу)",
+    "prefix": "еу",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "452",
+    "name": "еу-з01",
+    "prefix": "еу",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "453",
+    "name": "еу-з91мп (тпу)",
+    "prefix": "еу",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "454",
+    "name": "еу-з91мп (тпу)",
+    "prefix": "еу",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "455",
+    "name": "жур-01ф",
+    "prefix": "жур",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "456",
+    "name": "жур-91ф",
+    "prefix": "жур",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "457",
+    "name": "жур-з91ф",
+    "prefix": "жур",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "458",
+    "name": "за-71",
+    "prefix": "за",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "459",
+    "name": "за-81",
+    "prefix": "за",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "460",
+    "name": "за-81мн",
+    "prefix": "за",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "461",
+    "name": "за-91",
+    "prefix": "за",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "462",
+    "name": "за-91мп",
+    "prefix": "за",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "463",
+    "name": "за-п91",
+    "prefix": "за",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "464",
+    "name": "зв-01",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "465",
+    "name": "зв-01мн",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "466",
+    "name": "зв-01мп",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "467",
+    "name": "зв-71",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "468",
+    "name": "зв-81",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "469",
+    "name": "зв-91 (зв)",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "470",
+    "name": "зв-91 ()",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "471",
+    "name": "зв-91мн",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "472",
+    "name": "зв-91мп",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "473",
+    "name": "зв-з01",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "474",
+    "name": "зв-з01мп",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "475",
+    "name": "зв-з71",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "476",
+    "name": "зв-з91 (зв)",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "477",
+    "name": "зв-з91 ()",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "478",
+    "name": "зв-з91мп",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "479",
+    "name": "зв-п01",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "480",
+    "name": "зв-п81",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "481",
+    "name": "зв-п91",
+    "prefix": "зв",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "482",
+    "name": "зг-з01",
+    "prefix": "зг",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "483",
+    "name": "зг-з01мп",
+    "prefix": "зг",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "484",
+    "name": "зг-з71",
+    "prefix": "зг",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "485",
+    "name": "зг-з81",
+    "prefix": "зг",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "486",
+    "name": "зг-з91",
+    "prefix": "зг",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "487",
+    "name": "зп-81",
+    "prefix": "зп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "488",
+    "name": "зп-91",
+    "prefix": "зп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "489",
+    "name": "зп-91ф",
+    "prefix": "зп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "490",
+    "name": "зп-з91мп",
+    "prefix": "зп",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "491",
+    "name": "зп-п81",
+    "prefix": "зп",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "492",
+    "name": "зр-з01",
+    "prefix": "зр",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "493",
+    "name": "зр-з81 (встар)",
+    "prefix": "зр",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "494",
+    "name": "зр-з81 (встар)",
+    "prefix": "зр",
+    "okr": "bachelor",
+    "type": "extramural"
+  },
+  {
+    "id": "495",
+    "name": "зс-01",
+    "prefix": "зс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "496",
+    "name": "зс-01мн",
+    "prefix": "зс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "497",
+    "name": "зс-01мп",
+    "prefix": "зс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "498",
+    "name": "зс-01ф",
+    "prefix": "зс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "499",
+    "name": "зс-91",
+    "prefix": "зс",
+    "okr": "bachelor",
+    "type": "daily"
+  },
+  {
+    "id": "500",
+    "name": "зс-з01",
+    "prefix": "зс",
+    "okr": "bachelor",
+    "type": "extramural"
+  }
+]

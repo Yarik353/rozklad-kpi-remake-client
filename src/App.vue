@@ -10,16 +10,20 @@
     v-bind:teacherScheduleChosen="teacherScheduleChosen"
     v-on:menu-button-click="menuButtonClick"
 />
-    <InputSection
+    <InputSection v-if="true"
         v-bind:inputSectionStrings="inputSectionStrings"
     />
+    <Table v-if="false" ></Table>
 
   </div>
 </template>
 
 <script>
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap-vue/dist/bootstrap-vue.css'
 import MenuSection from '@/components/MenuSection'
 import InputSection from '@/components/InputSection'
+import Table from '@/components/Table'
 
 export default {
   name: 'App',
@@ -39,7 +43,8 @@ export default {
   },
   components: {
     MenuSection,
-    InputSection
+    InputSection,
+    Table
   },
   methods:{
     menuButtonClick(buttonNumber){

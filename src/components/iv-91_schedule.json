@@ -1,0 +1,1081 @@
+{
+  "id": "537",
+  "name": "ів-91",
+  "prefix": "ів",
+  "okr": "bachelor",
+  "type": "daily",
+  "lessons": [
+    {
+      "lesson_id": "8375",
+      "group_id": "537",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Методи наукових досліджень",
+      "lesson_full_name": "Методи наукових досліджень",
+      "lesson_number": "1",
+      "lesson_room": "",
+      "lesson_type": "Лек",
+      "teacher_name": "доц. Волокита А. М.",
+      "lesson_week": "1",
+      "time_start": "08:30:00",
+      "time_end": "10:05:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "529",
+          "teacher_name": "Волокита Артем Миколайович",
+          "teacher_full_name": "доцент Волокита Артем Миколайович",
+          "teacher_short_name": "доц. Волокита А. М.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=45bdd839-1915-4797-993e-fc2268e7234a",
+          "teacher_rating": "3.147"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "143",
+          "room_name": "-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8380",
+      "group_id": "537",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Методи наукових досліджень",
+      "lesson_full_name": "Методи наукових досліджень",
+      "lesson_number": "2",
+      "lesson_room": "513-18",
+      "lesson_type": "Лаб",
+      "teacher_name": "ас. Регіда П. Г.",
+      "lesson_week": "1",
+      "time_start": "10:25:00",
+      "time_end": "12:00:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "4487",
+          "teacher_name": "асистент Регіда П. Г.",
+          "teacher_full_name": "асистент Регіда П. Г.",
+          "teacher_short_name": "ас. Регіда П. Г.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=6aaef277-6c11-45c3-a744-e2af454ccffb",
+          "teacher_rating": "3.443"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "377",
+          "room_name": "513-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8385",
+      "group_id": "537",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Промислова екологія",
+      "lesson_full_name": "Промислова екологія",
+      "lesson_number": "3",
+      "lesson_room": "301-18,204-18",
+      "lesson_type": "Лек",
+      "teacher_name": "доц. Галиш В. В., доц. Оверченко Т. А.",
+      "lesson_week": "1",
+      "time_start": "12:20:00",
+      "time_end": "13:55:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "3879",
+          "teacher_name": "Галиш Валентина Володимирівна",
+          "teacher_full_name": "старший викладач Галиш Валентина Володимирівна",
+          "teacher_short_name": "ст.вик. Галиш В. В.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=2e5c4650-ad5b-4f32-9528-4b5553b9a275",
+          "teacher_rating": "3.625"
+        },
+        {
+          "teacher_id": "1542",
+          "teacher_name": "Корда Тетяна Анатоліївна",
+          "teacher_full_name": "доцент Корда Тетяна Анатоліївна",
+          "teacher_short_name": "доц. Корда Т. А.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=2005d5b1-983e-4cf9-aeb1-b3ffd1a9d7aa",
+          "teacher_rating": "3.642"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "136",
+          "room_name": "301-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        },
+        {
+          "room_id": "383",
+          "room_name": "204-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8389",
+      "group_id": "537",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Екологічна та природно-техногенна безпека",
+      "lesson_full_name": "Екологічна та природно-техногенна безпека",
+      "lesson_number": "4",
+      "lesson_room": "228-18,207-18,303-18",
+      "lesson_type": "Прак",
+      "teacher_name": "доц. Сіренко Л. В., ст.вик. Бенатов Д. Е., ст.вик. Вембер В. В.",
+      "lesson_week": "1",
+      "time_start": "14:15:00",
+      "time_end": "15:50:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "3002",
+          "teacher_name": "Сіренко Людмила Вікторівна",
+          "teacher_full_name": "доцент Сіренко Людмила Вікторівна",
+          "teacher_short_name": "доц. Сіренко Л. В.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=46b2ac78-6990-4a1c-83be-01326df1d277",
+          "teacher_rating": "3.612"
+        },
+        {
+          "teacher_id": "181",
+          "teacher_name": "Бенатов Даніель Емілович",
+          "teacher_full_name": "",
+          "teacher_short_name": "",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=e3c2f94e-5e34-4a06-aa98-a825aa101bfd",
+          "teacher_rating": "3.576"
+        },
+        {
+          "teacher_id": "459",
+          "teacher_name": "Вембер Валерія Володимирівна",
+          "teacher_full_name": "старший викладач Вембер Валерія Володимирівна",
+          "teacher_short_name": "ст.вик. Вембер В. В.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=93df9e94-cd10-4af9-9123-0a8a34594684",
+          "teacher_rating": "3.421"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "341",
+          "room_name": "228-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        },
+        {
+          "room_id": "350",
+          "room_name": "207-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        },
+        {
+          "room_id": "353",
+          "room_name": "303-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8376",
+      "group_id": "537",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Архітектура комп'ютерів-1. Арифметичні та управляючі пристрої",
+      "lesson_full_name": "Архітектура комп'ютерів-1. Арифметичні та управляючі пристрої",
+      "lesson_number": "1",
+      "lesson_room": "535-18",
+      "lesson_type": "Лаб",
+      "teacher_name": "доц. Верба О. А.",
+      "lesson_week": "1",
+      "time_start": "08:30:00",
+      "time_end": "10:05:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "461",
+          "teacher_name": "Верба Олександр Андрійович",
+          "teacher_full_name": "",
+          "teacher_short_name": "",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=3616fe25-c15f-4d3e-986b-deb3928e21b8",
+          "teacher_rating": "3.569"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "141",
+          "room_name": "535-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8381",
+      "group_id": "537",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Алгоритми та методи обчислень",
+      "lesson_full_name": "Алгоритми та методи обчислень",
+      "lesson_number": "2",
+      "lesson_room": "536-18",
+      "lesson_type": "Лаб",
+      "teacher_name": "доц. Порєв В. М.",
+      "lesson_week": "1",
+      "time_start": "10:25:00",
+      "time_end": "12:00:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "2649",
+          "teacher_name": "Порєв Віктор Миколайович",
+          "teacher_full_name": "старший викладач Порєв Віктор Миколайович",
+          "teacher_short_name": "ст.вик. Порєв В. М.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=33ec692b-1f64-470b-b7b8-9c2d1dfa73de",
+          "teacher_rating": "3.576"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "137",
+          "room_name": "536-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8386",
+      "group_id": "537",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Системне програмування-1",
+      "lesson_full_name": "Системне програмування-1. Програмування на Асемблері",
+      "lesson_number": "3",
+      "lesson_room": "302-18",
+      "lesson_type": "Лек",
+      "teacher_name": "доц. Порєв В. М.",
+      "lesson_week": "1",
+      "time_start": "12:20:00",
+      "time_end": "13:55:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "2649",
+          "teacher_name": "Порєв Віктор Миколайович",
+          "teacher_full_name": "старший викладач Порєв Віктор Миколайович",
+          "teacher_short_name": "ст.вик. Порєв В. М.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=33ec692b-1f64-470b-b7b8-9c2d1dfa73de",
+          "teacher_rating": "3.576"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "134",
+          "room_name": "302-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8390",
+      "group_id": "537",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Алгоритми та методи обчислень",
+      "lesson_full_name": "Алгоритми та методи обчислень",
+      "lesson_number": "4",
+      "lesson_room": "302-18",
+      "lesson_type": "Лек",
+      "teacher_name": "проф. Новотарський М. А.",
+      "lesson_week": "1",
+      "time_start": "14:15:00",
+      "time_end": "15:50:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "2321",
+          "teacher_name": "Новотарський Михайло Анатолійович",
+          "teacher_full_name": "професор Новотарський Михайло Анатолійович",
+          "teacher_short_name": "проф. Новотарський М. А.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=05251572-bbd4-48c3-9a08-f8e2d8032b19",
+          "teacher_rating": "3.204"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "134",
+          "room_name": "302-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8377",
+      "group_id": "537",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "ІПЗ-2. Проектування програмного забепечення",
+      "lesson_full_name": "Інженерія програмного забезпечення-2. Проектування програмного забепечення",
+      "lesson_number": "1",
+      "lesson_room": "111-18",
+      "lesson_type": "Лаб",
+      "teacher_name": "доц. Болдак А. О.",
+      "lesson_week": "1",
+      "time_start": "08:30:00",
+      "time_end": "10:05:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "294",
+          "teacher_name": "Болдак Андрій Олександрович",
+          "teacher_full_name": "доцент Болдак Андрій Олександрович",
+          "teacher_short_name": "доц. Болдак А. О.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=0d3b4492-f3b7-42c5-a4fe-1dbaa2d8ef8e",
+          "teacher_rating": "3.483"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "379",
+          "room_name": "111-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8382",
+      "group_id": "537",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "ІПЗ-2. Проектування програмного забепечення",
+      "lesson_full_name": "Інженерія програмного забезпечення-2. Проектування програмного забепечення",
+      "lesson_number": "2",
+      "lesson_room": "302-18",
+      "lesson_type": "Лек",
+      "teacher_name": "доц. Болдак А. О.",
+      "lesson_week": "1",
+      "time_start": "10:25:00",
+      "time_end": "12:00:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "294",
+          "teacher_name": "Болдак Андрій Олександрович",
+          "teacher_full_name": "доцент Болдак Андрій Олександрович",
+          "teacher_short_name": "доц. Болдак А. О.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=0d3b4492-f3b7-42c5-a4fe-1dbaa2d8ef8e",
+          "teacher_rating": "3.483"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "134",
+          "room_name": "302-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8387",
+      "group_id": "537",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Фізичне виховання",
+      "lesson_full_name": "Фізичне виховання",
+      "lesson_number": "3",
+      "lesson_room": "",
+      "lesson_type": "",
+      "teacher_name": "",
+      "lesson_week": "1",
+      "time_start": "12:20:00",
+      "time_end": "13:55:00",
+      "rate": "1",
+      "teachers": [],
+      "rooms": []
+    },
+    {
+      "lesson_id": "8378",
+      "group_id": "537",
+      "day_number": "4",
+      "day_name": "Четвер",
+      "lesson_name": "Теорія електричних та магнітних кіл-2. Додаткові розділи",
+      "lesson_full_name": "Теорія електричних та магнітних кіл-2. Додаткові розділи",
+      "lesson_number": "1",
+      "lesson_room": "",
+      "lesson_type": "Прак",
+      "teacher_name": "ас. Лободзинський В. Ю.",
+      "lesson_week": "1",
+      "time_start": "08:30:00",
+      "time_end": "10:05:00",
+      "rate": "1.5",
+      "teachers": [
+        {
+          "teacher_id": "1892",
+          "teacher_name": "Лободзинський Вадим Юрійович",
+          "teacher_full_name": "асистент Лободзинський Вадим Юрійович",
+          "teacher_short_name": "ас. Лободзинський В. Ю.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=18ab4269-c9af-4d2f-a342-4febc63a3571",
+          "teacher_rating": "3.500"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "143",
+          "room_name": "-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8383",
+      "group_id": "537",
+      "day_number": "4",
+      "day_name": "Четвер",
+      "lesson_name": "Іноз. мова. Практич. курс іноз. мови-ІІ",
+      "lesson_full_name": "Іноземна мова. Практичний курс іноземної мови-ІІ",
+      "lesson_number": "2",
+      "lesson_room": "337-A-18",
+      "lesson_type": "Прак",
+      "teacher_name": "доц. Гайденко Ю. О.",
+      "lesson_week": "1",
+      "time_start": "10:25:00",
+      "time_end": "12:00:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "587",
+          "teacher_name": "Гайденко Ю О",
+          "teacher_full_name": "викладач Гайденко Ю О",
+          "teacher_short_name": "вик. Гайденко Ю. О.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=710161ea-435f-4b59-9437-001ca82ae5b2",
+          "teacher_rating": "2.816"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "142",
+          "room_name": "337-A-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8388",
+      "group_id": "537",
+      "day_number": "4",
+      "day_name": "Четвер",
+      "lesson_name": "Архітектура комп'ютерів-1. Арифметичні та управляючі пристрої",
+      "lesson_full_name": "Архітектура комп'ютерів-1. Арифметичні та управляючі пристрої",
+      "lesson_number": "3",
+      "lesson_room": "",
+      "lesson_type": "Лек",
+      "teacher_name": "проф. Жабін В. І.",
+      "lesson_week": "1",
+      "time_start": "12:20:00",
+      "time_end": "13:55:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "1044",
+          "teacher_name": "Жабін Валерій Іванович",
+          "teacher_full_name": "професор Жабін Валерій Іванович",
+          "teacher_short_name": "проф. Жабін В. І.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=6648392a-25d5-41e7-9375-f24c1db3a7d1",
+          "teacher_rating": "3.369"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "143",
+          "room_name": "-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8379",
+      "group_id": "537",
+      "day_number": "5",
+      "day_name": "П’ятниця",
+      "lesson_name": "Комп'ютерна електроніка",
+      "lesson_full_name": "Комп'ютерна електроніка",
+      "lesson_number": "1",
+      "lesson_room": "514-18",
+      "lesson_type": "Лаб",
+      "teacher_name": "ст.вик. Виноградов Ю. М.",
+      "lesson_week": "1",
+      "time_start": "08:30:00",
+      "time_end": "10:05:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "474",
+          "teacher_name": "Виноградов Юрій Миколайович",
+          "teacher_full_name": "старший викладач Виноградов Юрій Миколайович",
+          "teacher_short_name": "ст.вик. Виноградов Ю. М.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=0b2d966c-8c9b-4154-b3ad-687e0bc56105",
+          "teacher_rating": "3.280"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "378",
+          "room_name": "514-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8384",
+      "group_id": "537",
+      "day_number": "5",
+      "day_name": "П’ятниця",
+      "lesson_name": "Комп'ютерна електроніка",
+      "lesson_full_name": "Комп'ютерна електроніка",
+      "lesson_number": "2",
+      "lesson_room": "302-18",
+      "lesson_type": "Лек",
+      "teacher_name": "ст.вик. Виноградов Ю. М.",
+      "lesson_week": "1",
+      "time_start": "10:25:00",
+      "time_end": "12:00:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "474",
+          "teacher_name": "Виноградов Юрій Миколайович",
+          "teacher_full_name": "старший викладач Виноградов Юрій Миколайович",
+          "teacher_short_name": "ст.вик. Виноградов Ю. М.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=0b2d966c-8c9b-4154-b3ad-687e0bc56105",
+          "teacher_rating": "3.280"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "134",
+          "room_name": "302-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8391",
+      "group_id": "537",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Методи наукових досліджень",
+      "lesson_full_name": "Методи наукових досліджень",
+      "lesson_number": "1",
+      "lesson_room": "",
+      "lesson_type": "Лек",
+      "teacher_name": "доц. Волокита А. М.",
+      "lesson_week": "2",
+      "time_start": "08:30:00",
+      "time_end": "10:05:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "529",
+          "teacher_name": "Волокита Артем Миколайович",
+          "teacher_full_name": "доцент Волокита Артем Миколайович",
+          "teacher_short_name": "доц. Волокита А. М.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=45bdd839-1915-4797-993e-fc2268e7234a",
+          "teacher_rating": "3.147"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "143",
+          "room_name": "-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8395",
+      "group_id": "537",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Методи наукових досліджень",
+      "lesson_full_name": "Методи наукових досліджень",
+      "lesson_number": "2",
+      "lesson_room": "513-18",
+      "lesson_type": "Лаб",
+      "teacher_name": "ас. Регіда П. Г.",
+      "lesson_week": "2",
+      "time_start": "10:25:00",
+      "time_end": "12:00:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "4487",
+          "teacher_name": "асистент Регіда П. Г.",
+          "teacher_full_name": "асистент Регіда П. Г.",
+          "teacher_short_name": "ас. Регіда П. Г.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=6aaef277-6c11-45c3-a744-e2af454ccffb",
+          "teacher_rating": "3.443"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "377",
+          "room_name": "513-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8399",
+      "group_id": "537",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Промислова екологія",
+      "lesson_full_name": "Промислова екологія",
+      "lesson_number": "3",
+      "lesson_room": "203-18,302-18",
+      "lesson_type": "Прак",
+      "teacher_name": "ас. Носачова Ю. В., ст.вик. Радовенчик Я. В.",
+      "lesson_week": "2",
+      "time_start": "12:20:00",
+      "time_end": "13:55:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "2327",
+          "teacher_name": "Носачова Юлія Вікторівна",
+          "teacher_full_name": "",
+          "teacher_short_name": "",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=24b8651e-5ea5-480c-9e5b-1e669e7cde6a",
+          "teacher_rating": "3.499"
+        },
+        {
+          "teacher_id": "2739",
+          "teacher_name": "Радовенчик Ярослав В'ячеславович",
+          "teacher_full_name": "старший викладач Радовенчик Ярослав В'ячеславович",
+          "teacher_short_name": "ст.вик. Радовенчик Я. В.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=cc6cb82e-750a-4ea6-80c0-dfda4e854ed4",
+          "teacher_rating": "3.546"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "346",
+          "room_name": "203-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        },
+        {
+          "room_id": "134",
+          "room_name": "302-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8403",
+      "group_id": "537",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Екологічна та природно-техногенна безпека",
+      "lesson_full_name": "Екологічна та природно-техногенна безпека",
+      "lesson_number": "4",
+      "lesson_room": "301-18,302-18,311-18",
+      "lesson_type": "Лек",
+      "teacher_name": "ас. Носачова Ю. В., доц. Оверченко Т. А., доц. Трус І. М.",
+      "lesson_week": "2",
+      "time_start": "14:15:00",
+      "time_end": "15:50:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "2327",
+          "teacher_name": "Носачова Юлія Вікторівна",
+          "teacher_full_name": "",
+          "teacher_short_name": "",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=24b8651e-5ea5-480c-9e5b-1e669e7cde6a",
+          "teacher_rating": "3.499"
+        },
+        {
+          "teacher_id": "1542",
+          "teacher_name": "Корда Тетяна Анатоліївна",
+          "teacher_full_name": "доцент Корда Тетяна Анатоліївна",
+          "teacher_short_name": "доц. Корда Т. А.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=2005d5b1-983e-4cf9-aeb1-b3ffd1a9d7aa",
+          "teacher_rating": "3.642"
+        },
+        {
+          "teacher_id": "3337",
+          "teacher_name": "Трус Інна Миколаївна",
+          "teacher_full_name": "асистент Трус Інна Миколаївна",
+          "teacher_short_name": "ас. Трус І. М.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=f388286f-c4c9-4325-ae32-5abdf24d29ca",
+          "teacher_rating": "3.478"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "136",
+          "room_name": "301-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        },
+        {
+          "room_id": "134",
+          "room_name": "302-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        },
+        {
+          "room_id": "334",
+          "room_name": "311-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8392",
+      "group_id": "537",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Архітектура комп'ютерів-1. Арифметичні та управляючі пристрої",
+      "lesson_full_name": "Архітектура комп'ютерів-1. Арифметичні та управляючі пристрої",
+      "lesson_number": "1",
+      "lesson_room": "535-18",
+      "lesson_type": "Лаб",
+      "teacher_name": "доц. Верба О. А.",
+      "lesson_week": "2",
+      "time_start": "08:30:00",
+      "time_end": "10:05:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "461",
+          "teacher_name": "Верба Олександр Андрійович",
+          "teacher_full_name": "",
+          "teacher_short_name": "",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=3616fe25-c15f-4d3e-986b-deb3928e21b8",
+          "teacher_rating": "3.569"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "141",
+          "room_name": "535-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8396",
+      "group_id": "537",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Системне програмування-1",
+      "lesson_full_name": "Системне програмування-1. Програмування на Асемблері",
+      "lesson_number": "2",
+      "lesson_room": "536-18",
+      "lesson_type": "Лаб",
+      "teacher_name": "доц. Порєв В. М.",
+      "lesson_week": "2",
+      "time_start": "10:25:00",
+      "time_end": "12:00:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "2649",
+          "teacher_name": "Порєв Віктор Миколайович",
+          "teacher_full_name": "старший викладач Порєв Віктор Миколайович",
+          "teacher_short_name": "ст.вик. Порєв В. М.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=33ec692b-1f64-470b-b7b8-9c2d1dfa73de",
+          "teacher_rating": "3.576"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "137",
+          "room_name": "536-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8400",
+      "group_id": "537",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Системне програмування-1",
+      "lesson_full_name": "Системне програмування-1. Програмування на Асемблері",
+      "lesson_number": "3",
+      "lesson_room": "302-18",
+      "lesson_type": "Лек",
+      "teacher_name": "доц. Порєв В. М.",
+      "lesson_week": "2",
+      "time_start": "12:20:00",
+      "time_end": "13:55:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "2649",
+          "teacher_name": "Порєв Віктор Миколайович",
+          "teacher_full_name": "старший викладач Порєв Віктор Миколайович",
+          "teacher_short_name": "ст.вик. Порєв В. М.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=33ec692b-1f64-470b-b7b8-9c2d1dfa73de",
+          "teacher_rating": "3.576"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "134",
+          "room_name": "302-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8404",
+      "group_id": "537",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Алгоритми та методи обчислень",
+      "lesson_full_name": "Алгоритми та методи обчислень",
+      "lesson_number": "4",
+      "lesson_room": "302-18",
+      "lesson_type": "Лек",
+      "teacher_name": "проф. Новотарський М. А.",
+      "lesson_week": "2",
+      "time_start": "14:15:00",
+      "time_end": "15:50:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "2321",
+          "teacher_name": "Новотарський Михайло Анатолійович",
+          "teacher_full_name": "професор Новотарський Михайло Анатолійович",
+          "teacher_short_name": "проф. Новотарський М. А.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=05251572-bbd4-48c3-9a08-f8e2d8032b19",
+          "teacher_rating": "3.204"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "134",
+          "room_name": "302-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8393",
+      "group_id": "537",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Теорія електричних та магнітних кіл-2. Додаткові розділи",
+      "lesson_full_name": "Теорія електричних та магнітних кіл-2. Додаткові розділи",
+      "lesson_number": "1",
+      "lesson_room": "339-18",
+      "lesson_type": "Лек",
+      "teacher_name": "ас. Лободзинський В. Ю.",
+      "lesson_week": "2",
+      "time_start": "08:30:00",
+      "time_end": "10:05:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "1892",
+          "teacher_name": "Лободзинський Вадим Юрійович",
+          "teacher_full_name": "асистент Лободзинський Вадим Юрійович",
+          "teacher_short_name": "ас. Лободзинський В. Ю.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=18ab4269-c9af-4d2f-a342-4febc63a3571",
+          "teacher_rating": "3.500"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "347",
+          "room_name": "339-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8401",
+      "group_id": "537",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Фізичне виховання",
+      "lesson_full_name": "Фізичне виховання",
+      "lesson_number": "3",
+      "lesson_room": "",
+      "lesson_type": "",
+      "teacher_name": "",
+      "lesson_week": "2",
+      "time_start": "12:20:00",
+      "time_end": "13:55:00",
+      "rate": "1",
+      "teachers": [],
+      "rooms": []
+    },
+    {
+      "lesson_id": "8394",
+      "group_id": "537",
+      "day_number": "4",
+      "day_name": "Четвер",
+      "lesson_name": "Теорія електричних та магнітних кіл-2. Додаткові розділи",
+      "lesson_full_name": "Теорія електричних та магнітних кіл-2. Додаткові розділи",
+      "lesson_number": "1",
+      "lesson_room": "",
+      "lesson_type": "Прак",
+      "teacher_name": "ас. Лободзинський В. Ю.",
+      "lesson_week": "2",
+      "time_start": "08:30:00",
+      "time_end": "10:05:00",
+      "rate": "1.5",
+      "teachers": [
+        {
+          "teacher_id": "1892",
+          "teacher_name": "Лободзинський Вадим Юрійович",
+          "teacher_full_name": "асистент Лободзинський Вадим Юрійович",
+          "teacher_short_name": "ас. Лободзинський В. Ю.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=18ab4269-c9af-4d2f-a342-4febc63a3571",
+          "teacher_rating": "3.500"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "143",
+          "room_name": "-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8397",
+      "group_id": "537",
+      "day_number": "4",
+      "day_name": "Четвер",
+      "lesson_name": "Іноз. мова. Практич. курс іноз. мови-ІІ",
+      "lesson_full_name": "Іноземна мова. Практичний курс іноземної мови-ІІ",
+      "lesson_number": "2",
+      "lesson_room": "337-A-18",
+      "lesson_type": "Прак",
+      "teacher_name": "доц. Гайденко Ю. О.",
+      "lesson_week": "2",
+      "time_start": "10:25:00",
+      "time_end": "12:00:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "587",
+          "teacher_name": "Гайденко Ю О",
+          "teacher_full_name": "викладач Гайденко Ю О",
+          "teacher_short_name": "вик. Гайденко Ю. О.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=710161ea-435f-4b59-9437-001ca82ae5b2",
+          "teacher_rating": "2.816"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "142",
+          "room_name": "337-A-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8402",
+      "group_id": "537",
+      "day_number": "4",
+      "day_name": "Четвер",
+      "lesson_name": "Архітектура комп'ютерів-1. Арифметичні та управляючі пристрої",
+      "lesson_full_name": "Архітектура комп'ютерів-1. Арифметичні та управляючі пристрої",
+      "lesson_number": "3",
+      "lesson_room": "",
+      "lesson_type": "Лек",
+      "teacher_name": "проф. Жабін В. І.",
+      "lesson_week": "2",
+      "time_start": "12:20:00",
+      "time_end": "13:55:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "1044",
+          "teacher_name": "Жабін Валерій Іванович",
+          "teacher_full_name": "професор Жабін Валерій Іванович",
+          "teacher_short_name": "проф. Жабін В. І.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=6648392a-25d5-41e7-9375-f24c1db3a7d1",
+          "teacher_rating": "3.369"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "143",
+          "room_name": "-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    },
+    {
+      "lesson_id": "8398",
+      "group_id": "537",
+      "day_number": "5",
+      "day_name": "П’ятниця",
+      "lesson_name": "Комп'ютерна електроніка",
+      "lesson_full_name": "Комп'ютерна електроніка",
+      "lesson_number": "2",
+      "lesson_room": "302-18",
+      "lesson_type": "Лек",
+      "teacher_name": "ст.вик. Виноградов Ю. М.",
+      "lesson_week": "2",
+      "time_start": "10:25:00",
+      "time_end": "12:00:00",
+      "rate": "1",
+      "teachers": [
+        {
+          "teacher_id": "474",
+          "teacher_name": "Виноградов Юрій Миколайович",
+          "teacher_full_name": "старший викладач Виноградов Юрій Миколайович",
+          "teacher_short_name": "ст.вик. Виноградов Ю. М.",
+          "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=0b2d966c-8c9b-4154-b3ad-687e0bc56105",
+          "teacher_rating": "3.280"
+        }
+      ],
+      "rooms": [
+        {
+          "room_id": "134",
+          "room_name": "302-18",
+          "room_latitude": "50.447021",
+          "room_longitude": "30.456021"
+        }
+      ]
+    }
+  ]
+}
