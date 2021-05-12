@@ -10,10 +10,16 @@
     v-bind:teacherScheduleChosen="teacherScheduleChosen"
     v-on:menu-button-click="menuButtonClick"
 />
-    <InputSection v-if="true"
-        v-bind:inputSectionStrings="inputSectionStrings"
+    <InputSection v-if="groupsScheduleChosen"
+        v-bind:inputSectionStrings="inputSectionGroup"
     />
-    <Table v-if="false" ></Table>
+    <InputSection v-if="sessionScheduleChosen"
+                  v-bind:inputSectionStrings="inputSectionExam"
+    />
+    <InputSection v-if="teacherScheduleChosen"
+                  v-bind:inputSectionStrings="inputSectionTeacher"
+    />
+    <Table v-if="true" ></Table>
 
   </div>
 </template>
@@ -34,11 +40,18 @@ export default {
     sessionScheduleChosen: false,
     teacherScheduleChosen: false,
     //Strings of input section widgets
-    inputSectionStrings:{
+    inputSectionGroup:{
     inputTextLabel: "Група",
     inputTextPrompt: "Введіть назву групи",
     buttonText: "Розклад занять"},
-
+    inputSectionExam:{
+      inputTextLabel: "Група",
+      inputTextPrompt: "Введіть назву групи",
+      buttonText: "Розклад сесії"},
+    inputSectionTeacher:{
+      inputTextLabel: "Викладач",
+      inputTextPrompt: "Прізвище Ім'я По-батькові",
+      buttonText: "Розклад занять"},
   }
   },
   components: {
@@ -47,42 +60,27 @@ export default {
     Table
   },
   methods:{
+    /**
+     * Функція для відображення потрібного поля вводу
+     * @param buttonNumber номер кнопки із розділу меню
+     */
     menuButtonClick(buttonNumber){
       if(buttonNumber==1){
-        //Menu buttons color changing
         this.groupsScheduleChosen = true
         this.sessionScheduleChosen = false
         this.teacherScheduleChosen = false
-
-        //Changing the input section
-        this.inputSectionStrings={
-            inputTextLabel: "Група",
-            inputTextPrompt: "Введіть назву групи",
-            buttonText: "Розклад занять"}
       }
       if(buttonNumber==2){
-        //Menu buttons color changing
         this.groupsScheduleChosen = false
         this.sessionScheduleChosen = true
         this.teacherScheduleChosen = false
 
-        //Changing the input section
-        this.inputSectionStrings={
-          inputTextLabel: "Група",
-          inputTextPrompt: "Введіть назву групи",
-          buttonText: "Розклад сесії"}
       }
       if(buttonNumber==3){
-        //Menu buttons color changing
         this.groupsScheduleChosen = false
         this.sessionScheduleChosen = false
         this.teacherScheduleChosen = true
 
-        //Changing the input section
-        this.inputSectionStrings={
-          inputTextLabel: "Викладач",
-          inputTextPrompt: "Прізвище Ім'я По-батькові",
-          buttonText: "Розклад занять"}
       }
     }
   }

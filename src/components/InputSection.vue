@@ -46,6 +46,10 @@ export default {
     inputSectionStrings: Object,
   },
   computed:{
+    /**
+     * Функція фільтрує назви груп
+     * @returns {array} відфільтрований список груп
+     */
     filteredGroups: function (){
       return this.groupNames.filter((group) =>{
         if (!this.search){
@@ -56,9 +60,17 @@ export default {
     }
   },
   methods:{
+    /**
+     * Функція вставляє назву групи, вибрану із пошукового фільтру, у поле для вводу
+     * @param name chosen name from search filter
+     */
     insertGroupName: function (name){
       this.search = name;
     },
+    /**
+     * Функція переверіє коли показувати пошуковий філтр
+     * @returns {boolean} якщо поле для вводу або відфільтрований список пусті - повертається false
+     */
     checkSearch: function (){
       if (!this.search || !this.filteredGroups.length){
         return false;
