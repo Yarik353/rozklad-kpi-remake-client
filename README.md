@@ -1,4 +1,4 @@
-# vue-rozklad-front
+# rozklad-kpi-remake-client
 
 ## Project setup
 ```
